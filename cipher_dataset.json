@@ -1,0 +1,3882 @@
+[
+    {
+        "ciphertext": "czggjirjmgy",
+        "plaintext": "hello world",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "dybwj sihwy",
+        "plaintext": "hello world",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "edffg ugkfv",
+        "plaintext": "hello world",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "hweolrllod ",
+        "plaintext": "hello world",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jgzgtyioktik",
+        "plaintext": "data science",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "iekz thmvmdj",
+        "plaintext": "data science",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "nhqh zcvjmcj",
+        "plaintext": "data science",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "diaetnac esc",
+        "plaintext": "data science",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xtiefcpyzqypiapced",
+        "plaintext": "mixture of experts",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "yjuwidf li sjqbuhe",
+        "plaintext": "mixture of experts",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ojemwtf lk fehftmb",
+        "plaintext": "mixture of experts",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "mtefxriu  ptxroees",
+        "plaintext": "mixture of experts",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "bhogdqmaqdzjhmf",
+        "plaintext": "cipher breaking",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "bddbqq wfymjdba",
+        "plaintext": "cipher breaking",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qdjcgl hlgfsdiy",
+        "plaintext": "cipher breaking",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "c iibnprgheeark",
+        "plaintext": "cipher breaking",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mdtqzkmmdsvnqjr",
+        "plaintext": "neural networks",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "auptuy dzvqbhfu",
+        "plaintext": "neural networks",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "lywkjp lyuszkqb",
+        "plaintext": "neural networks",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "nua ewrserlntok",
+        "plaintext": "neural networks",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "iwydejajhawnjejc",
+        "plaintext": "machine learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "mbzxqnf iuirofdo",
+        "plaintext": "machine learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "uehdfvo qoeyvfvx",
+        "plaintext": "machine learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "milnaneiceanh rg",
+        "plaintext": "machine learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zqshehbhzkmhmsdkkhfdmbd",
+        "plaintext": "artificial intelligence",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "raspyzlhhe zwslecrflgtn",
+        "plaintext": "artificial intelligence",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "bfqhxhwhbs hjqosshlojwo",
+        "plaintext": "artificial intelligence",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "aiclnlgcrfi tleetiaiein",
+        "plaintext": "artificial intelligence",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ijjusqjfwsnsl",
+        "plaintext": "deep learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "lshc dmouaavu",
+        "plaintext": "deep learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gzzi xzolqsqu",
+        "plaintext": "deep learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "degeaerpn iln",
+        "plaintext": "deep learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jwpqnwhjhwjcqwcajlnkyaooejc",
+        "plaintext": "natural language processing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vdpurio hanoxwge xukceaveng",
+        "plaintext": "natural language processing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fsilnsc csfelsem gnuvmddxfe",
+        "plaintext": "natural language processing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "nulauereiar na osntalggpcsg",
+        "plaintext": "natural language processing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vhfinmxkgoblbhg",
+        "plaintext": "computer vision",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fizrewye xsvcbp",
+        "plaintext": "computer vision",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "urhgbzxl madaro",
+        "plaintext": "computer vision",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "cvoimspiuotner ",
+        "plaintext": "computer vision",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "byrylylyjwqgq",
+        "plaintext": "data analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hkou srkgskmc",
+        "plaintext": "data analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "evqv vzvyiwlw",
+        "plaintext": "data analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dnsaatlay sai",
+        "plaintext": "data analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "uwjinhynajsrtijqnsl",
+        "plaintext": "predictive modeling",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vdikuifmcq sahlxozk",
+        "plaintext": "predictive modeling",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "neduxwoxzd fbudvxhr",
+        "plaintext": "predictive modeling",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pegr emdoidcetliivn",
+        "plaintext": "predictive modeling",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hexerqmrmrk",
+        "plaintext": "data mining",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "wmcn ybzras",
+        "plaintext": "data mining",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qtst uxlxli",
+        "plaintext": "data mining",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dt iigaamnn",
+        "plaintext": "data mining",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tubujtujdbmomfbsojoh",
+        "plaintext": "statistical learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vtfiuvtnrmo ljpdqisv",
+        "plaintext": "statistical learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ikrkmikmbrn ncrejmjv",
+        "plaintext": "statistical learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "stlntiegacatarilns i",
+        "plaintext": "statistical learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "anrwoxalnvnwcwunjawrwp",
+        "plaintext": "reinforcement learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "tlmlrqygcygux jqcyrgzi",
+        "plaintext": "reinforcement learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "mkqaiymokwkaf tkdmaqan",
+        "plaintext": "reinforcement learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "rnrmtengefce aiioenlrn",
+        "plaintext": "reinforcement learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zbwlycpzlkuslhyupun",
+        "plaintext": "supervised learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vdmhuyrphg onxuqlwd",
+        "plaintext": "supervised learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "wenvphqwvs mvupgqgc",
+        "plaintext": "supervised learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "sprie eriguevsdlann",
+        "plaintext": "supervised learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "votvqfswjtfeomfbsojoh",
+        "plaintext": "unsupervised learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ysrpyiwudbii kzjvship",
+        "plaintext": "unsupervised learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "buibhonfkiop doanukuj",
+        "plaintext": "unsupervised learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "upi rgneslnsreeiuvdan",
+        "plaintext": "unsupervised learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mlhabylulunpullypun",
+        "plaintext": "feature engineering",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "tyzjwfy ddiwhdutwhf",
+        "plaintext": "feature engineering",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qewxnse eihkieeskih",
+        "plaintext": "feature engineering",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ftennrgeu geiareien",
+        "plaintext": "feature engineering",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fhwxegxotentmbhg",
+        "plaintext": "model evaluation",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pwqxm hdnevdbvho",
+        "plaintext": "model evaluation",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gnxwd whmdrmeanq",
+        "plaintext": "model evaluation",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "meeltnolvuid aao",
+        "plaintext": "model evaluation",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fqltwnymrsijajqturjsy",
+        "plaintext": "algorithm development",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "nncegvvdc srxabdcoadi",
+        "plaintext": "algorithm development",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "aegdbwtnz lojoedszovt",
+        "plaintext": "algorithm development",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "agrtmdvlpetloih eeomn",
+        "plaintext": "algorithm development",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "bziqvqvovlibi",
+        "plaintext": "training data",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hrgeswnm zfha",
+        "plaintext": "training data",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "lziktktg nili",
+        "plaintext": "training data",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "tn aridanaigt",
+        "plaintext": "training data",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xiwxrhexe",
+        "plaintext": "test data",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pqpc iwfx",
+        "plaintext": "test data",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "noqn bknk",
+        "plaintext": "test data",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "taetsat d",
+        "plaintext": "test data",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jyvzzhchspkhapvu",
+        "plaintext": "cross-validation",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ltgco-ecdszjvayj",
+        "plaintext": "cross-validation",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "whgoo-fnzumnjugp",
+        "plaintext": "cross-validation",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "c-dnrvaoatslisio",
+        "plaintext": "cross-validation",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vmdsfdofoashsfbhibwbu",
+        "plaintext": "hyperparameter tuning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ilnxsqnptnfgck uvaggh",
+        "plaintext": "hyperparameter tuning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "lzngenpepdgtge tahuhm",
+        "plaintext": "hyperparameter tuning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "hpraaee uigyeprmtrtnn",
+        "plaintext": "hyperparameter tuning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "whqtyudjdtuisudj",
+        "plaintext": "gradient descent",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xlcpnvhv pjjwgzy",
+        "plaintext": "gradient descent",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zgudcyvr dyixyvr",
+        "plaintext": "gradient descent",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "gncrtea nddtiees",
+        "plaintext": "gradient descent",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tkaxgrtgxinozkizaxk",
+        "plaintext": "neural architecture",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "zvjjox rguvuktuhgit",
+        "plaintext": "neural architecture",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zjuoan aotshgjtguoj",
+        "plaintext": "neural architecture",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "nua rhtcueerlacietr",
+        "plaintext": "neural architecture",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tfemfclkzferceevlirceevknfibj",
+        "plaintext": "convolutional neural networks",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hjhksqpnxssvf cizmua rjoqdvpn",
+        "plaintext": "convolutional neural networks",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "mtujtskbotuns ufkhns ufbxthyl",
+        "plaintext": "convolutional neural networks",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "clne oouaunrntlrekvi atsoonlw",
+        "plaintext": "convolutional neural networks",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mzxpmmzioiizpmvgiizorjmfn",
+        "plaintext": "recurrent neural networks",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "wtvvfwtgu bjjkbz stmxcwzl",
+        "plaintext": "recurrent neural networks",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gyepggyxn xypgbl xyndogih",
+        "plaintext": "recurrent neural networks",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "rcretnua ewrseurn erlntok",
+        "plaintext": "recurrent neural networks",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zxgtyluxskxtsujkry",
+        "plaintext": "transformer models",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uecjagbtims zqzmmf",
+        "plaintext": "transformer models",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pnuhvkgncdn cgedov",
+        "plaintext": "transformer models",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "trr amnosdfeolrsme",
+        "plaintext": "transformer models",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jccnwcrxwwvnlqjwrbvb",
+        "plaintext": "attention mechanisms",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "onvhshcqq rswjdswmov",
+        "plaintext": "attention mechanisms",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pccjvcxbv ijqfpvxtit",
+        "plaintext": "attention mechanisms",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "aei cnmtnomhisttneas",
+        "plaintext": "attention mechanisms",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vslsfhjwhjguwkkafy",
+        "plaintext": "data preprocessing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "lngz fzrcqekrfryvt",
+        "plaintext": "data preprocessing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "miui ewbewysbkkzhg",
+        "plaintext": "data preprocessing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dt rpoesnaapercsig",
+        "plaintext": "data preprocessing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "yxtmnkxgxqmktvmbhg",
+        "plaintext": "feature extraction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "kuqiiwu umhwqsiwtd",
+        "plaintext": "feature extraction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "arnqtwr ruqwnlqhgf",
+        "plaintext": "feature extraction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "fxetartaucrtei oen",
+        "plaintext": "feature extraction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "urkretcvrezex",
+        "plaintext": "data cleaning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "jjcy krnjlqtp",
+        "plaintext": "data cleaning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "tlul pzglioia",
+        "plaintext": "data cleaning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "diantga clean",
+        "plaintext": "data cleaning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ufyuodmbttjgjdbujpo",
+        "plaintext": "text classification",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "tatk nlwojtfeyreikj",
+        "plaintext": "text classification",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "xmux ozcbbgrgocxgpl",
+        "plaintext": "text classification",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "taaestxsitio fncilc",
+        "plaintext": "text classification",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xjsynrjsysfsfqdxnx",
+        "plaintext": "sentiment analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "keefkeeef cfackuas",
+        "plaintext": "sentiment analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ouhlbquhl eherkobo",
+        "plaintext": "sentiment analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "s eanntailmyesnits",
+        "plaintext": "sentiment analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hlzfdmqdbnfmhshnm",
+        "plaintext": "image recognition",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xsvgj gkxolcooitc",
+        "plaintext": "image recognition",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kwhuv avjqugkckqg",
+        "plaintext": "image recognition",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "icnmoaggnei trieo",
+        "plaintext": "image recognition",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "olaaydjnaykcjepekj",
+        "plaintext": "speech recognition",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "faaklu caixtyezrby",
+        "plaintext": "speech recognition",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kfmmcq emchjlytyhl",
+        "plaintext": "speech recognition",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "scpoegenciht iroen",
+        "plaintext": "speech recognition",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ujnfotfsjftogpsfdbtujoh",
+        "plaintext": "time series forecasting",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qvzt ebevte cbetoxfgxzd",
+        "plaintext": "time series forecasting",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kxge remxer wimeojrkxnl",
+        "plaintext": "time series forecasting",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ticieamsse t fisonergre",
+        "plaintext": "time series forecasting",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "qdecqbodtujusjyed",
+        "plaintext": "anomaly detection",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "riwidct lawvxbere",
+        "plaintext": "anomaly detection",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "oqdfovn uckcwkrdq",
+        "plaintext": "anomaly detection",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "atneocmtailoyn de",
+        "plaintext": "anomaly detection",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "nwfdepctyrylwrzctesxd",
+        "plaintext": "clustering algorithms",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gisrgiogmt eienemqflf",
+        "plaintext": "clustering algorithms",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "yemjkghtwa leashtkpij",
+        "plaintext": "clustering algorithms",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "csrglrhlti gimuenaots",
+        "plaintext": "clustering algorithms",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vaewfkagfsdalqfjwvmulagf",
+        "plaintext": "dimensionality reduction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "rqaiugqcrhzqhc ysligawwb",
+        "plaintext": "dimensionality reduction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "uftnhsfxhvcfea jnuzlefxh",
+        "plaintext": "dimensionality reduction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dituioycmn tearinleosidn",
+        "plaintext": "dimensionality reduction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mofkzfmxikzljmlkbkqkxkxivpfp",
+        "plaintext": "principal component analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ggygazeqe afbfhlvcj tlraolgj",
+        "plaintext": "principal component analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zktgetzsi exuzxgfgh sgsibvtv",
+        "plaintext": "principal component analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pclmeayri pnnsipcotainaon ls",
+        "plaintext": "principal component analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hjeedgicktridgcbprwxcth",
+        "plaintext": "support vector machines",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "jhyvtig ekhkba sfturtjj",
+        "plaintext": "support vector machines",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hwrroea ujsaoe gqsbpkjh",
+        "plaintext": "support vector machines",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "stohu ripv npemeocasrtc",
+        "plaintext": "support vector machines",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "bcagqgmllrpccq",
+        "plaintext": "decision trees",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "jqnnmoay ylkqd",
+        "plaintext": "decision trees",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "mugfvfiy ktuuv",
+        "plaintext": "decision trees",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dne ctirseieos",
+        "plaintext": "decision trees",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "nwbnvkunwvncqxmb",
+        "plaintext": "ensemble methods",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pccucmao cuewyti",
+        "plaintext": "ensemble methods",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "bgfbkqlb kbxhtyf",
+        "plaintext": "ensemble methods",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ebesnltsehe ommd",
+        "plaintext": "ensemble methods",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fobrcabtcfsghg",
+        "plaintext": "random forests",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pbzfok gateque",
+        "plaintext": "random forests",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gqckza jzgoses",
+        "plaintext": "random forests",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "rfaonrdeosmt s",
+        "plaintext": "random forests",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "sdmpuqzfznaaefuzs",
+        "plaintext": "gradient boosting",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "illnqghe lwqmesvi",
+        "plaintext": "gradient boosting",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hgirlduq occtqluh",
+        "plaintext": "gradient boosting",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "goroasdtiienngt b",
+        "plaintext": "gradient boosting",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dtfxtglgvenlmxkbgz",
+        "plaintext": "k-means clustering",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "w-uiwue kpqzfmveus",
+        "plaintext": "k-means clustering",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "j-shqxu twguchzbxd",
+        "plaintext": "k-means clustering",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "k r-cimlneugasntse",
+        "plaintext": "k-means clustering",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dqyludrqoui",
+        "plaintext": "naive bayes",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xklzi lkbiw",
+        "plaintext": "naive bayes",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zjpki hjaix",
+        "plaintext": "naive bayes",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "nvbeaeasi y",
+        "plaintext": "naive bayes",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "rumoyzoitxkmxkyyout",
+        "plaintext": "logistic regression",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "llqwrtfm fdgoogrilx",
+        "plaintext": "logistic regression",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "whxnbznr cixcibbnhy",
+        "plaintext": "logistic regression",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "lgsi ersinoitcrgeso",
+        "plaintext": "logistic regression",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dafwsjfjwyjwkkagf",
+        "plaintext": "linear regression",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "lipisr rgkjesumgn",
+        "plaintext": "linear regression",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "phytvq qteqtjjhly",
+        "plaintext": "linear regression",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "lrroi ennrseesagi",
+        "plaintext": "linear regression",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jigmaqivvqvnmzmvkm",
+        "plaintext": "bayesian inference",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "giilsnix pnkmblnhm",
+        "plaintext": "bayesian inference",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pkncdwki wiyctcigc",
+        "plaintext": "bayesian inference",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "beaienasnnrcyi fee",
+        "plaintext": "bayesian inference",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xyyjhlychzilwygyhnhfyulhcha",
+        "plaintext": "deep reinforcement learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uotp dvscfaimtmqed aemixxns",
+        "plaintext": "deep reinforcement learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "yeeg lexoprlmeieou aecloxoq",
+        "plaintext": "deep reinforcement learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dec ieielnenmegpfea onrrrtn",
+        "plaintext": "deep reinforcement learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "kmbcjlglrcpnpcryzgjgrw",
+        "plaintext": "model interpretability",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "yugjh utwjnbxhywnoonpk",
+        "plaintext": "model interpretability",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ycxke pbdkofokdlqpepdn",
+        "plaintext": "model interpretability",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "m ratoipbydnrietelleti",
+        "plaintext": "model interpretability",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ytbkgxllgbggTB",
+        "plaintext": "fairness in AI",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cskqtbku ht XA",
+        "plaintext": "fairness in AI",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "flsbkdjj sk AI",
+        "plaintext": "fairness in AI",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "f aiinr nAeIss",
+        "plaintext": "fairness in AI",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "krjbwrwwvjlqrwnwunjawrwp",
+        "plaintext": "bias in machine learning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "nxol tz bovsucs epmgbbys",
+        "plaintext": "bias in machine learning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hzev zs aefgzsc xcepszsj",
+        "plaintext": "bias in machine learning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "bcnihiainsng ei nl emaar",
+        "plaintext": "bias in machine learning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xmabvtegTB",
+        "plaintext": "ethical AI",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "eqovxai HV",
+        "plaintext": "ethical AI",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "phyqbar AI",
+        "plaintext": "ethical AI",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ehclAtia I",
+        "plaintext": "ethical AI",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "FNsjymnhx",
+        "plaintext": "AI ethics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "UL ypucfm",
+        "plaintext": "AI ethics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "AI bdvehu",
+        "plaintext": "AI ethics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "AhIi cest",
+        "plaintext": "AI ethics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "yvivapjz",
+        "plaintext": "robotics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ifumiztl",
+        "plaintext": "robotics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "xjijmqdz",
+        "plaintext": "robotics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "robotics",
+        "plaintext": "robotics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ztsnmnlntrmrxrsdlr",
+        "plaintext": "autonomous systems",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ybbibmtwog qfanskz",
+        "plaintext": "autonomous systems",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "doukikfkom mzmurfm",
+        "plaintext": "autonomous systems",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "a ustyosntoemmosus",
+        "plaintext": "autonomous systems",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vpduwqghylfhv",
+        "plaintext": "smart devices",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "phqjh azlaqbn",
+        "plaintext": "smart devices",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "xdofm bphnipx",
+        "plaintext": "smart devices",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "srdismteca ve",
+        "plaintext": "smart devices",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "HmsdqmdsmnemSghmfr",
+        "plaintext": "Internet of Things",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Sclhcxtl rq Dwaqrc",
+        "plaintext": "Internet of Things",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Imztomtz nq Tuwmbp",
+        "plaintext": "Internet of Things",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Ionft eTrhnientg s",
+        "plaintext": "Internet of Things",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dcfdmbnlotshmf",
+        "plaintext": "edge computing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "dibo xnrkeohsb",
+        "plaintext": "edge computing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jxgj wobtdafyg",
+        "plaintext": "edge computing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "etdigneg compu",
+        "plaintext": "edge computing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "forxgqfrpsxwlqj",
+        "plaintext": "cloud computing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uhgoq ukejhlefa",
+        "plaintext": "cloud computing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "iymts imcjtdlkz",
+        "plaintext": "cloud computing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "cpluotuidn gcom",
+        "plaintext": "cloud computing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mtryolel",
+        "plaintext": "big data",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "wqz qloi",
+        "plaintext": "big data",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "mof zkdk",
+        "plaintext": "big data",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "big data",
+        "plaintext": "big data",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "khahushrlz",
+        "plaintext": "data lakes",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uvso arfdg",
+        "plaintext": "data lakes",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fzuz mzypi",
+        "plaintext": "data lakes",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "daakteas l",
+        "plaintext": "data lakes",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ebuboxbsfipvtft",
+        "plaintext": "data warehouses",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "paim bmrtttgste",
+        "plaintext": "data warehouses",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ijej bjdkryhxkx",
+        "plaintext": "data warehouses",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "daahsa roetweus",
+        "plaintext": "data warehouses",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vslsfygnwjfsfuw",
+        "plaintext": "data governance",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "jusr jupdiqghbv",
+        "plaintext": "data governance",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "odmd xrhliudutl",
+        "plaintext": "data governance",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "deartnaa ngcoev",
+        "plaintext": "data governance",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "gizmrtpegifkvtkzfe",
+        "plaintext": "privacy protection",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "druroqy bncheopwcn",
+        "plaintext": "privacy protection",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cbjwohl cbzdghdjzk",
+        "plaintext": "privacy protection",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pyer ciptvriaooctn",
+        "plaintext": "privacy protection",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "oknqdeqogdufk",
+        "plaintext": "cybersecurity",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uptqukvuguakq",
+        "plaintext": "cybersecurity",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "paymzkmphzeva",
+        "plaintext": "cybersecurity",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "cruyysrbeiect",
+        "plaintext": "cybersecurity",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "oybpxpunvaagrpuabybtl",
+        "plaintext": "blockchain technology",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fmhibgitoe xfvnesmhmp",
+        "plaintext": "blockchain technology",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "mawcrcinuv ftcivwawye",
+        "plaintext": "blockchain technology",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "bokhi ehooylccantcnlg",
+        "plaintext": "blockchain technology",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "lahycxpajyqh",
+        "plaintext": "cryptography",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "mhgxxywzitro",
+        "plaintext": "cryptography",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qbisvtzbuski",
+        "plaintext": "cryptography",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "chryyptograp",
+        "plaintext": "cryptography",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vhfxuhqgdwdqwudqvplvvlrq",
+        "plaintext": "secure data transmission",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "okyhta jwgc pxwauioofkkt",
+        "plaintext": "secure data transmission",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cvhbav empm pamwcdyccytw",
+        "plaintext": "secure data transmission",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "sasetmcaiu srtseri aodnn",
+        "plaintext": "secure data transmission",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "rwuwhozbtcfsbgwqg",
+        "plaintext": "digital forensics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qcybgnf xherhkbpf",
+        "plaintext": "digital forensics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "lysykwx jrcvgeybe",
+        "plaintext": "digital forensics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dtfnsiaosglrii ec",
+        "plaintext": "digital forensics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jntgmnfgvhfinmbgz",
+        "plaintext": "quantum computing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "wbnzmat pafvbgugm",
+        "plaintext": "quantum computing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qauloak fckraovli",
+        "plaintext": "quantum computing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "q iucnaognmtpuumt",
+        "plaintext": "quantum computing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vwuvodsftcfaobqsbqcadihwbu",
+        "plaintext": "high-performance computing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "myxn-rjhwutrqeig hedvwyyem",
+        "plaintext": "high-performance computing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gsug-erpnqpltbkr kqlefasbu",
+        "plaintext": "high-performance computing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "hprepgiem ugracthfnoi-ocmn",
+        "plaintext": "high-performance computing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zbwlyjvtwbalyz",
+        "plaintext": "supercomputers",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gozdaqiwodhybr",
+        "plaintext": "supercomputers",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fxnoltchnxzolf",
+        "plaintext": "supercomputers",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "suutpeerrscomp",
+        "plaintext": "supercomputers",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fqhqbbubdsecfkjydw",
+        "plaintext": "parallel computing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xlsnhtpm pkuavgevr",
+        "plaintext": "parallel computing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fqiqllzl ewrfukocs",
+        "plaintext": "parallel computing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "prle optnaallcmuig",
+        "plaintext": "parallel computing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "glvwulexwhgqvbvwhpv",
+        "plaintext": "distributed systems",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pjjwtuclwgp tpvvqnj",
+        "plaintext": "distributed systems",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "deplbeznlgd pxplghp",
+        "plaintext": "distributed systems",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dusittseetdmr sisby",
+        "plaintext": "distributed systems",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "gdwdedvhqpdqdjhphqw",
+        "plaintext": "database management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "aybmpxqm yokyoqablb",
+        "plaintext": "database management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "azhzjzit wzozdtwtoh",
+        "plaintext": "database management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "db aeaamgntsaetaenm",
+        "plaintext": "database management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "IGBdtqjqrqiui",
+        "plaintext": "SQL databases",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "EIV kdfslhvqk",
+        "plaintext": "SQL databases",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "SQL zpxpmptht",
+        "plaintext": "SQL databases",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "StsQaLb adsae",
+        "plaintext": "SQL databases",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "XyCAVxnkdklkcoc",
+        "plaintext": "NoSQL databases",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "FyOPM vkpzcscar",
+        "plaintext": "NoSQL databases",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "NhSQL grirtrfkf",
+        "plaintext": "NoSQL databases",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "N bodaSasQteLas",
+        "plaintext": "NoSQL databases",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ufodvbrohopogsg",
+        "plaintext": "graph databases",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "dyedx ahxorxzig",
+        "plaintext": "graph databases",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "wzsnk esusisgyg",
+        "plaintext": "graph databases",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "gdsraeatspahb a",
+        "plaintext": "graph databases",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "pmfmzuzfqsdmfuaz",
+        "plaintext": "data integration",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "kapi putaoyhtewu",
+        "plaintext": "data integration",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "poro cnrmksorcwn",
+        "plaintext": "data integration",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dgartaat iionnte",
+        "plaintext": "data integration",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "libiveizmpwcaqvo",
+        "plaintext": "data warehousing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "grms pdixzhxjbfz",
+        "plaintext": "data warehousing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ulpl clkerwfgsny",
+        "plaintext": "data warehousing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "d esawhitaonarug",
+        "plaintext": "data warehousing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "FUMoqspdfttft",
+        "plaintext": "ETL processes",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "JDG attmzdujc",
+        "plaintext": "ETL processes",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ETL ypmjgttgt",
+        "plaintext": "ETL processes",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "EcTeLs sperso",
+        "plaintext": "ETL processes",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vslsfnakmsdarslagf",
+        "plaintext": "data visualization",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "tskm pyklmfyrrfcef",
+        "plaintext": "data visualization",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zdrd emsydjmadrmvq",
+        "plaintext": "data visualization",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dstauitaoaln ivzia",
+        "plaintext": "data visualization",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ifxmgtfwisijxnls",
+        "plaintext": "dashboard design",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uqhtqfqgp svixsc",
+        "plaintext": "dashboard design",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "dvcbqgvxd dwcntr",
+        "plaintext": "dashboard design",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dda sdhebsoiagrn",
+        "plaintext": "dashboard design",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "kpvgtcevkxgprnqvu",
+        "plaintext": "interactive plots",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xtflypifpct vxvah",
+        "plaintext": "interactive plots",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pxntqlsnpct zuhni",
+        "plaintext": "interactive plots",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "itonittvseer apcl",
+        "plaintext": "interactive plots",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hayotkyytotzkrromktik",
+        "plaintext": "business intelligence",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hzuyckxu yczjnbxmjpst",
+        "plaintext": "business intelligence",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "konsqmnn sqamjjscmqwm",
+        "plaintext": "business intelligence",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "bisieinunsnlgcse tlee",
+        "plaintext": "business intelligence",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "aofyshbobozmgwg",
+        "plaintext": "market analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gzncpn zjswsrek",
+        "plaintext": "market analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "svynco vivxjqwq",
+        "plaintext": "market analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "m saairnskaelty",
+        "plaintext": "market analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zchuhwcufhgixyfcha",
+        "plaintext": "financial modeling",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "rniqqonvb paizblzl",
+        "plaintext": "financial modeling",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qncocxnoz amdbzncp",
+        "plaintext": "financial modeling",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "fai diinamennclolg",
+        "plaintext": "financial modeling",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ofphkxppbppjbkq",
+        "plaintext": "risk assessment",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cqrt udadbmxmmc",
+        "plaintext": "risk assessment",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ypmd emmqmmsqhj",
+        "plaintext": "risk assessment",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "r eeiasnssstksm",
+        "plaintext": "risk assessment",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "badfraxuazymzmsqyqzf",
+        "plaintext": "portfolio management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uqvsgtnmn nfpeffrgrs",
+        "plaintext": "portfolio management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "skewvkqhk lcfcgolofw",
+        "plaintext": "portfolio management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "plnnoiatrogt efmmoae",
+        "plaintext": "portfolio management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "omyxywsmxpybomkcdsxq",
+        "plaintext": "economic forecasting",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xidzqfor rqkkrmumocs",
+        "plaintext": "economic forecasting",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "edwawucd lwredxotcai",
+        "plaintext": "economic forecasting",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "eooi oeatncnmcfrcsig",
+        "plaintext": "economic forecasting",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mjfqymhfwjsfsfqdynhx",
+        "plaintext": "healthcare analytics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fyzotfwzue yhzoyrcbv",
+        "plaintext": "healthcare analytics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "utliwudlat loliqwpdx",
+        "plaintext": "healthcare analytics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "haleryaetl itachnsca",
+        "plaintext": "healthcare analytics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ahnldchbzkmczsz",
+        "plaintext": "biomedical data",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fzegphzsuw hrju",
+        "plaintext": "biomedical data",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "njpkxrjwdy rdud",
+        "plaintext": "biomedical data",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "biaictoaamle dd",
+        "plaintext": "biomedical data",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wudecysdtqjq",
+        "plaintext": "genomic data",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "svenxut uzem",
+        "plaintext": "genomic data",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "xeuwnyr gjaj",
+        "plaintext": "genomic data",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "gaetnaomic d",
+        "plaintext": "genomic data",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ogzqlzbdtshbzkmqdrdzqbg",
+        "plaintext": "pharmaceutical research",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "bbzwhmwdzouwzq mqmdfmob",
+        "plaintext": "pharmaceutical research",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "nwzyazeqptlezf yquqzyew",
+        "plaintext": "pharmaceutical research",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pairrhccecaeashrulemt a",
+        "plaintext": "pharmaceutical research",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "udafausdfljasdk",
+        "plaintext": "clinical trials",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "govnfgdy tomdys",
+        "plaintext": "clinical trials",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "smxqxsym dcxymh",
+        "plaintext": "clinical trials",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "clsl itnriicaal",
+        "plaintext": "clinical trials",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jbafzxikfjxdfkd",
+        "plaintext": "medical imaging",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hqzlkvx epibujj",
+        "plaintext": "medical imaging",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pounhgb npgknrk",
+        "plaintext": "medical imaging",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "mmeadgiicnagl i",
+        "plaintext": "medical imaging",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xibqmvbvuwvqbwzqvo",
+        "plaintext": "patient monitoring",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "wihaoub agxpbcjsuo",
+        "plaintext": "patient monitoring",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "rmsxjks gekxselxki",
+        "plaintext": "patient monitoring",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pnaittioernitn gmo",
+        "plaintext": "patient monitoring",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wblxtlxgikxwbvmbhg",
+        "plaintext": "disease prediction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "rdugegz rtirdevmci",
+        "plaintext": "disease prediction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ibqpoqp hnpibkwbdr",
+        "plaintext": "disease prediction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dapioisrcnseete di",
+        "plaintext": "disease prediction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "rwdnkepjgcnvj",
+        "plaintext": "public health",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vvqzvi itoyzi",
+        "plaintext": "public health",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "agunmo jprndj",
+        "plaintext": "public health",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "p huhbelailct",
+        "plaintext": "public health",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "okyewhjjapskngjwjwhuoeo",
+        "plaintext": "social network analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "rextwk dzesnhf ljzbtder",
+        "plaintext": "social network analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "khuyca fqzphse cfcavkyk",
+        "plaintext": "social network analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "sca ewr nlssoilntokaayi",
+        "plaintext": "social network analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zywtypympslgtzc",
+        "plaintext": "online behavior",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "zirgop wkfbgdup",
+        "plaintext": "online behavior",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cziszo poelascw",
+        "plaintext": "online behavior",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ohnalviinoer be",
+        "plaintext": "online behavior",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hfreacebsvyvat",
+        "plaintext": "user profiling",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ocur ulyviqcxw",
+        "plaintext": "user profiling",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "zbyp upenaqafk",
+        "plaintext": "user profiling",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "urrins olgepfi",
+        "plaintext": "user profiling",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "huseccudtqjyeddioijuci",
+        "plaintext": "recommendation systems",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ovhmtjvsbhqztl zvjyctp",
+        "plaintext": "recommendation systems",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kjqmhhjlartfml ydytjhy",
+        "plaintext": "recommendation systems",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "rn sedscayotsmitmoeenm",
+        "plaintext": "recommendation systems",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tivwsrepmdihrqevoixmrk",
+        "plaintext": "personalized marketing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vrxbmtnrrxkq sjpqrzrlm",
+        "plaintext": "personalized marketing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "swodvyguzqwl rgotwczyb",
+        "plaintext": "personalized marketing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pa telmirianszrgoeknde",
+        "plaintext": "personalized marketing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fxvwrphuqvhjphqwdwlrq",
+        "plaintext": "customer segmentation",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ctqezmdp dpglcyeasgzy",
+        "plaintext": "customer segmentation",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "idcypjgx cgzjgtynyept",
+        "plaintext": "customer segmentation",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "c austseitgoomnmeenrt",
+        "plaintext": "customer segmentation",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "BdCouftujoh",
+        "plaintext": "A/B testing",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "G/T birzavk",
+        "plaintext": "A/B testing",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "A/B xvgxlbu",
+        "plaintext": "A/B testing",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Ag/B testin",
+        "plaintext": "A/B testing",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "aykxtkdvkxoktiktxkykgxin",
+        "plaintext": "user experience research",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "luye moryeqvpwr zvuynztj",
+        "plaintext": "user experience research",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hsjv jyojvwjxpj vjsjevpm",
+        "plaintext": "user experience research",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ue xeinersacsreprec eerh",
+        "plaintext": "user experience research",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wyvkbjauhuhsfapjz",
+        "plaintext": "product analytics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cqkzlps wjryxpetf",
+        "plaintext": "product analytics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "wezhilj kgkvujyls",
+        "plaintext": "product analytics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "parloydtuiccts an",
+        "plaintext": "product analytics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hdfrpphufhqdqdobwlfv",
+        "plaintext": "e-commerce analytics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "s-wrwcslfo qbuoijwwv",
+        "plaintext": "e-commerce analytics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "m-gvyymjgm ltldrapgz",
+        "plaintext": "e-commerce analytics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "e -acnoamlmyetricces",
+        "plaintext": "e-commerce analytics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dlwpdyqzcpnldetyr",
+        "plaintext": "sales forecasting",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "jslld wgrlnrktpyx",
+        "plaintext": "sales forecasting",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jxwbj geybixjsfnv",
+        "plaintext": "sales forecasting",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "seaclaesst ifnogr",
+        "plaintext": "sales forecasting",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "yzhviyikmzydxodji",
+        "plaintext": "demand prediction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fcjkbf noorkaqscp",
+        "plaintext": "demand prediction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "vsdnzv xpsviqhirz",
+        "plaintext": "demand prediction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "deedmiacntdi opnr",
+        "plaintext": "demand prediction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wbjsbhcfmbaobousasbh",
+        "plaintext": "inventory management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "lnlxswohr rdnqzjpedm",
+        "plaintext": "inventory management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fyvwyzots dayakwdwyz",
+        "plaintext": "inventory management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "itmenoamvrneeyann gt",
+        "plaintext": "inventory management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wyttpcrglemrrstxmqmdexmsr",
+        "plaintext": "supply chain optimization",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "zgpfcf ohqzu apjztuzqkpan",
+        "plaintext": "supply chain optimization",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "rykkbn uwalc dkqlplhaqldc",
+        "plaintext": "supply chain optimization",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "saiuizpnap tloiypo tncihm",
+        "plaintext": "supply chain optimization",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ildfpqfzp",
+        "plaintext": "logistics",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "uvpahcplk",
+        "plaintext": "logistics",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "avzwdrwed",
+        "plaintext": "logistics",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "liioscgts",
+        "plaintext": "logistics",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ayhuzwvyahapvuuzfzaltz",
+        "plaintext": "transportation systems",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cjjkbygaqjcaxk bhkcbvb",
+        "plaintext": "transportation systems",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pmjwkfvmpjpivw khkpsdk",
+        "plaintext": "transportation systems",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "tnoaostsrsrtnyeapti sm",
+        "plaintext": "transportation systems",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hbpgicrxixth",
+        "plaintext": "smart cities",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "pdiak zzbrvp",
+        "plaintext": "smart cities",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "rnhiy wpypkr",
+        "plaintext": "smart cities",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "stmiaerst ci",
+        "plaintext": "smart cities",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "jgqpcceapccxcv",
+        "plaintext": "urban planning",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ynrub thqhbmjw",
+        "plaintext": "urban planning",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "owram szammemt",
+        "plaintext": "urban planning",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ubnpannra lnig",
+        "plaintext": "urban planning",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "cltgpmlkclryjlkmlgrmpgle",
+        "plaintext": "environmental monitoring",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "nsdmoxsuikcft qlwnbsorso",
+        "plaintext": "environmental monitoring",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "djthcgjidjfyq igjhfgchjv",
+        "plaintext": "environmental monitoring",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "evrnetlmntrnniomna oioig",
+        "plaintext": "environmental monitoring",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "prpqxfkxyfifqv",
+        "plaintext": "sustainability",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xadsuntlacqoex",
+        "plaintext": "sustainability",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ebemoizohilimd",
+        "plaintext": "sustainability",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "siulsittayinab",
+        "plaintext": "sustainability",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vebftmxgvatgzx",
+        "plaintext": "climate change",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "khryiba ltivcn",
+        "plaintext": "climate change",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jvnrity jlicay",
+        "plaintext": "climate change",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "cmehgla aeitcn",
+        "plaintext": "climate change",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wfwjyqfesfsywewfl",
+        "plaintext": "energy management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "kkqcne jmyhmbypuz",
+        "plaintext": "energy management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jajzrx pwawrjpjan",
+        "plaintext": "energy management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "eyann gtemeramgne",
+        "plaintext": "energy management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wjsjbfgqjsjsjwld",
+        "plaintext": "renewable energy",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "rmwwvajuw dnmayx",
+        "plaintext": "renewable energy",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "tpupdyhvp puptrx",
+        "plaintext": "renewable energy",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "r eenneewragbyle",
+        "plaintext": "renewable energy",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "qmjyplnmucp",
+        "plaintext": "solar power",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ovcon lvnsn",
+        "plaintext": "solar power",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "qzjfm xzhrm",
+        "plaintext": "solar power",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "s roploawre",
+        "plaintext": "solar power",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dpukululynf",
+        "plaintext": "wind energy",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "avxt urrbwo",
+        "plaintext": "wind energy",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cnfe wfwomt",
+        "plaintext": "wind energy",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "wdngi eyner",
+        "plaintext": "wind energy",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "gngevtkepxgjkengu",
+        "plaintext": "electric vehicles",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "yliaplig tabigjam",
+        "plaintext": "electric vehicles",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "dudpbavp mdtvpudw",
+        "plaintext": "electric vehicles",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ecll eevscethriic",
+        "plaintext": "electric vehicles",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mgfaymfqpzekefqye",
+        "plaintext": "automated systems",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "mofaamnqp gkmfqae",
+        "plaintext": "automated systems",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "heqdnhqou jcjqonj",
+        "plaintext": "automated systems",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "adsu tsoymsatteem",
+        "plaintext": "automated systems",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "UaFzpqhuoqe",
+        "plaintext": "IoT devices",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "PaJ macusno",
+        "plaintext": "IoT devices",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "IpT gwbfvwl",
+        "plaintext": "IoT devices",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "IiocTe sdev",
+        "plaintext": "IoT devices",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "htchdgcctildgzh",
+        "plaintext": "sensor networks",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "sevjrr nmkzorsj",
+        "plaintext": "sensor networks",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "vpqvhg qpnlhguv",
+        "plaintext": "sensor networks",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "snseentswoorr k",
+        "plaintext": "sensor networks",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "axqxkzliibzqflk",
+        "plaintext": "data collection",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "kyml bvjepbaghy",
+        "plaintext": "data collection",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ocuc qpfftqumpz",
+        "plaintext": "data collection",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dccaottlialo en",
+        "plaintext": "data collection",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "wtmtglmhktzx",
+        "plaintext": "data storage",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qfal cgtylqr",
+        "plaintext": "data storage",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ltjt sjmutnp",
+        "plaintext": "data storage",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "draatgae sto",
+        "plaintext": "data storage",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "spipcprrthh",
+        "plaintext": "data access",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ifoe dhhzwv",
+        "plaintext": "data access",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jqcq qkkupp",
+        "plaintext": "data access",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dacsa cstae",
+        "plaintext": "data access",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "spipchtrjgxin",
+        "plaintext": "data security",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "bsex mcufocrq",
+        "plaintext": "data security",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "fmjm bdsygtjx",
+        "plaintext": "data security",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dsiaettcyau r",
+        "plaintext": "data security",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "bddfttodpouspm",
+        "plaintext": "access control",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xebqsp enztoqk",
+        "plaintext": "access control",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "effpgg frhsbrm",
+        "plaintext": "access control",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ae nocsctlcsor",
+        "plaintext": "access control",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "gdwdqhqfubswlrq",
+        "plaintext": "data encryption",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "brnr sltlpdrzie",
+        "plaintext": "data encryption",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ekfk rlshonfpvl",
+        "plaintext": "data encryption",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dt nrpinaaecyto",
+        "plaintext": "data encryption",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "kphqtocvkqpptgvtkgxcn",
+        "plaintext": "information retrieval",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qweehujsyev adjhqnuqb",
+        "plaintext": "information retrieval",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "rneazolpran zcpzrcxlh",
+        "plaintext": "information retrieval",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "iiinoefnvo arrlmeattr",
+        "plaintext": "information retrieval",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "dplcnsypyrtypd",
+        "plaintext": "search engines",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "anohap nbwgvng",
+        "plaintext": "search engines",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "urkpbv rmqwmru",
+        "plaintext": "search engines",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "sgeianrecsh en",
+        "plaintext": "search engines",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "emjvakzixqvo",
+        "plaintext": "web scraping",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cfc xexbqnpm",
+        "plaintext": "web scraping",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "eop ugniqfaj",
+        "plaintext": "web scraping",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "wnegb scrapi",
+        "plaintext": "web scraping",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vslsfwpljsulagf",
+        "plaintext": "data extraction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ruze glnxeehcur",
+        "plaintext": "data extraction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "xdtd lgtwdhtbic",
+        "plaintext": "data extraction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dt xrcinaaetato",
+        "plaintext": "data extraction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xjiozioivivgtndn",
+        "plaintext": "content analysis",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "bnazrms ntnkxfof",
+        "plaintext": "content analysis",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cvmasma zmzgbeue",
+        "plaintext": "content analysis",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ceayonnsntait ls",
+        "plaintext": "content analysis",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mxqmgfbgbgz",
+        "plaintext": "text mining",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "dqzb dszkvx",
+        "plaintext": "text mining",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ojwo dtptpv",
+        "plaintext": "text mining",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "t iemnxigtn",
+        "plaintext": "text mining",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vslsfkuawfuwfhjgbwulk",
+        "plaintext": "data science projects",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "veuc iumfpsw tsqzwguu",
+        "plaintext": "data science projects",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "cfwf jmzqxmq ulvsqmwj",
+        "plaintext": "data science projects",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dscosacejti eaepc nrt",
+        "plaintext": "data science projects",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "PXcgthtpgrw",
+        "plaintext": "AI research",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "WD iglaviea",
+        "plaintext": "AI research",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "AI tbwbitsg",
+        "plaintext": "AI research",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "AhI researc",
+        "plaintext": "AI research",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ozxcijgjbtiomziyn",
+        "plaintext": "technology trends",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qcjbxljvai qplhnp",
+        "plaintext": "technology trends",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "erftqiyisa ehrqzm",
+        "plaintext": "technology trends",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "to deltscorhgenyn",
+        "plaintext": "technology trends",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hmmnuzshnm",
+        "plaintext": "innovation",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "njkdofpfdg",
+        "plaintext": "innovation",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kssozaekos",
+        "plaintext": "innovation",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ivonanntoi",
+        "plaintext": "innovation",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tywyjqbdjhqdivehcqjyed",
+        "plaintext": "digital transformation",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vmjansp wjufwigleewaif",
+        "plaintext": "digital transformation",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "chjhbaq bfaedrwftabhwe",
+        "plaintext": "digital transformation",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "drtiaignoisntfaolr mta",
+        "plaintext": "digital transformation",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "lmtkmnigvnemnkx",
+        "plaintext": "startup culture",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "iqpzskm rckjrgm",
+        "plaintext": "startup culture",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "dkgvkmx amikmvl",
+        "plaintext": "startup culture",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "s etcaurlttuupr",
+        "plaintext": "startup culture",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "luaylwylulbyzopw",
+        "plaintext": "entrepreneurship",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gebcyrimyywiascr",
+        "plaintext": "entrepreneurship",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "yrdvytvyrykvepit",
+        "plaintext": "entrepreneurship",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "eensnpehtruirerp",
+        "plaintext": "entrepreneurship",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ohfvarffafgengrtl",
+        "plaintext": "business strategy",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "kyhlznwh vfaeihsh",
+        "plaintext": "business strategy",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "znmjkfmm maitafxo",
+        "plaintext": "business strategy",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "bsns taeyuiessrtg",
+        "plaintext": "business strategy",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "aczupneyxlylrpxpye",
+        "plaintext": "project management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xaljwkc jafipbmwvc",
+        "plaintext": "project management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "vnstlcf obmbklolmf",
+        "plaintext": "project management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "pcnertano gtjmeeam",
+        "plaintext": "project management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hnpslutlaovkvsvnplz",
+        "plaintext": "agile methodologies",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vaite hytpoyilwgdys",
+        "plaintext": "agile methodologies",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ianxu vukyoloxoanub",
+        "plaintext": "agile methodologies",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "atigheiosldeo lmoeg",
+        "plaintext": "agile methodologies",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "lvknf",
+        "plaintext": "scrum",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vuqzb",
+        "plaintext": "scrum",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "glpvf",
+        "plaintext": "scrum",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "scrum",
+        "plaintext": "scrum",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "tjwkjw",
+        "plaintext": "kanban",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gsabbj",
+        "plaintext": "kanban",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "azsgzs",
+        "plaintext": "kanban",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "knanba",
+        "plaintext": "kanban",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "xtkybfwjsijajqturjsy",
+        "plaintext": "software development",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "gumrsoxl bajksmlakur",
+        "plaintext": "software development",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "kysvwxqp bprptydcpov",
+        "plaintext": "software development",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "sw emoadlefreontevpt",
+        "plaintext": "software development",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "lnkcnwiiejcjhwjcqwcao",
+        "plaintext": "programming languages",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qtojcbomlyh naqrvcghd",
+        "plaintext": "programming languages",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jxabxqeesdb rqdbnqbpl",
+        "plaintext": "programming languages",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "piurnaoggg erlsaamnmg",
+        "plaintext": "programming languages",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Qzuipooqsphsbnnjoh",
+        "plaintext": "Python programming",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Tkjufr bhbxvmczzrs",
+        "plaintext": "Python programming",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Pcqypi kepoetddnio",
+        "plaintext": "Python programming",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Pto rgamnyhnpormig",
+        "plaintext": "Python programming",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Hdfhewhqccydw",
+        "plaintext": "R programming",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "A ztjkakohmwq",
+        "plaintext": "R programming",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "R cznlzfppbyl",
+        "plaintext": "R programming",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Rm mpirnoggra",
+        "plaintext": "R programming",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "DupuMwlcjn",
+        "plaintext": "JavaScript",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "GotiAzfgxb",
+        "plaintext": "JavaScript",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "JbkbSvhryo",
+        "plaintext": "JavaScript",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "JartaSivcp",
+        "plaintext": "JavaScript",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Evqv",
+        "plaintext": "Java",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Iopq",
+        "plaintext": "Java",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Jdcd",
+        "plaintext": "Java",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Java",
+        "plaintext": "Java",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Iee",
+        "plaintext": "C++",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Z++",
+        "plaintext": "C++",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "C++",
+        "plaintext": "C++",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "C++",
+        "plaintext": "C++",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Ao",
+        "plaintext": "C#",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "T#",
+        "plaintext": "C#",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "C#",
+        "plaintext": "C#",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "C#",
+        "plaintext": "C#",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Lpbym",
+        "plaintext": "Swift",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Qzbhi",
+        "plaintext": "Swift",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Simbx",
+        "plaintext": "Swift",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Swift",
+        "plaintext": "Swift",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Tbacebtenzzvat",
+        "plaintext": "Go programming",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Rs czqrvnuotrt",
+        "plaintext": "Go programming",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Gp xnpwncggkmw",
+        "plaintext": "Go programming",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Gmoi npgrogram",
+        "plaintext": "Go programming",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ujcrixdcpacegdvgpbbxcv",
+        "plaintext": "functional programming",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "eosjohishg oltnmzgrpif",
+        "plaintext": "functional programming",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hqneowbnyk vzbczysswnc",
+        "plaintext": "functional programming",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "fngguarnlac mtpmirioon",
+        "plaintext": "functional programming",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "viqljahvyplualkuwyvnyhttpun",
+        "plaintext": "object-oriented programming",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "svgpcx-ioternbo pvidcaqgfyg",
+        "plaintext": "object-oriented programming",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ungpcr-ukepbrpv akuhkyjjebh",
+        "plaintext": "object-oriented programming",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "oiobegjnretacemtdm- iopnrrg",
+        "plaintext": "object-oriented programming",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ckhtjkbkruvsktz",
+        "plaintext": "web development",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "tyc kesymvpjyoa",
+        "plaintext": "web development",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "vjz hjyjrlmpjat",
+        "plaintext": "web development",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "wdleeeonbvpt em",
+        "plaintext": "web development",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "acpwzsboddg",
+        "plaintext": "mobile apps",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "mcgxje oueq",
+        "plaintext": "mobile apps",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gedquc nttz",
+        "plaintext": "mobile apps",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "mlpoepb sia",
+        "plaintext": "mobile apps",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "mnbtcxywjyyurljcrxwb",
+        "plaintext": "desktop applications",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "imwsztx exvqqgiznwra",
+        "plaintext": "desktop applications",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hrqokps cssbxfckxpaq",
+        "plaintext": "desktop applications",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "dpelsikctaotpi oanps",
+        "plaintext": "desktop applications",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fzldmcdudknoldms",
+        "plaintext": "game development",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ivcw wgqudhrhufm",
+        "plaintext": "game development",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "wvsp kphpmqfspdi",
+        "plaintext": "game development",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "gm eeomnaedvlpet",
+        "plaintext": "game development",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "IWqILbrsgwub",
+        "plaintext": "UI/UX design",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "DO/FY cnythm",
+        "plaintext": "UI/UX design",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "UI/UX kjletg",
+        "plaintext": "UI/UX design",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "U/XdsgIU ein",
+        "plaintext": "UI/UX design",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "kxpdqdfrpsxwhuqlqwhudfwlrq",
+        "plaintext": "human-computer interaction",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "nlmac-ifmpjzvr iczvrarzzon",
+        "plaintext": "human-computer interaction",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "bjuvd-pmucjilt gdiltvpigmd",
+        "plaintext": "human-computer interaction",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "h-uianuctncmoettamreinp ro",
+        "plaintext": "human-computer interaction",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "ywivrmrxivjegiw",
+        "plaintext": "user interfaces",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "cxdv yvydvvihdw",
+        "plaintext": "user interfaces",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ximl dsbmlyozmi",
+        "plaintext": "user interfaces",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ufsaecre sinter",
+        "plaintext": "user interfaces",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "awnbeizmvmvoqvmmzqvo",
+        "plaintext": "software engineering",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "sqjlcati wtgkrwkrkry",
+        "plaintext": "software engineering",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "bafdhiej jysmyjjemys",
+        "plaintext": "software engineering",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "senongfgtiwnaereer i",
+        "plaintext": "software engineering",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "hlrczkperjjliretv",
+        "plaintext": "quality assurance",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "nnabxqr aihrkadrb",
+        "plaintext": "quality assurance",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ytpeqxv prrtlpibc",
+        "plaintext": "quality assurance",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "q nuacaselsiutrya",
+        "plaintext": "quality assurance",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "sdrshmfmeqzldvnqjr",
+        "plaintext": "testing frameworks",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "afmazuh zyrtfqvirt",
+        "plaintext": "testing frameworks",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "hnjhrlf aoiuntbozj",
+        "plaintext": "testing frameworks",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "tsigfaeoketn rmwrs",
+        "plaintext": "testing frameworks",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "bnmshmtntrmhmsdfqzshnm",
+        "plaintext": "continuous integration",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "hbilzshjmj naowxwnoafs",
+        "plaintext": "continuous integration",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "irnfvnzrzk vnfpoaqfvrn",
+        "plaintext": "continuous integration",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "c ooinnnttienguroautsi",
+        "plaintext": "continuous integration",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "eqpvkpwqwupfgrnqaogpv",
+        "plaintext": "continuous deployment",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xsdhbiyeil yifzhtqubm",
+        "plaintext": "continuous deployment",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "odlhilydyx apusdjrplh",
+        "plaintext": "continuous deployment",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "cn otoudynoemtupeisln",
+        "plaintext": "continuous deployment",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "pylmcihhwihnlif",
+        "plaintext": "version control",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "vsszxob dvctfps",
+        "plaintext": "version control",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jfnrkdi hdiendv",
+        "plaintext": "version control",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "vnre orclsoinot",
+        "plaintext": "version control",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Wyj",
+        "plaintext": "Git",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Tct",
+        "plaintext": "Git",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Gdj",
+        "plaintext": "Git",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Git",
+        "plaintext": "Git",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "SufTgn",
+        "plaintext": "GitHub",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "TsaJho",
+        "plaintext": "GitHub",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "GerHsq",
+        "plaintext": "GitHub",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "GHiutb",
+        "plaintext": "GitHub",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "Dkvdwemgv",
+        "plaintext": "Bitbucket",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "Qijrfrkuj",
+        "plaintext": "Bitbucket",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "Btjkmzbsj",
+        "plaintext": "Bitbucket",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "Btuktibce",
+        "plaintext": "Bitbucket",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "nzwwlmzcletzyyezzwd",
+        "plaintext": "collaboration tools",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "ublcftbrryabn ktgys",
+        "plaintext": "collaboration tools",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ihmmawhkarthv rhhmc",
+        "plaintext": "collaboration tools",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "consor latltoaiobol",
+        "plaintext": "collaboration tools",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "eplxynzxxfytnletzy",
+        "plaintext": "team communication",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "fjwu varicguhwbbas",
+        "plaintext": "team communication",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "owia buaavyxbioxuy",
+        "plaintext": "team communication",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "tcnieoioamcnmma ut",
+        "plaintext": "team communication",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "sfnpufoxpsl",
+        "plaintext": "remote work",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "mrqhuz jskl",
+        "plaintext": "remote work",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "gpresp iegx",
+        "plaintext": "remote work",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ro retwkmeo",
+        "plaintext": "remote work",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "gtceflwyeplxd",
+        "plaintext": "virtual teams",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "qgfepvj hpvhq",
+        "plaintext": "virtual teams",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "ycxftvh flvsj",
+        "plaintext": "virtual teams",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "v itretaumasl",
+        "plaintext": "virtual teams",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "rwuwhozbqczzopcfohwcb",
+        "plaintext": "digital collaboration",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "oytgtlb pmlwqomrljvmn",
+        "plaintext": "digital collaboration",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "tawariu oyuuiqyjirayz",
+        "plaintext": "digital collaboration",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "d oicrgoailttliaaolbn",
+        "plaintext": "digital collaboration",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "zywtypyezzwd",
+        "plaintext": "online tools",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "siksxi onyvw",
+        "plaintext": "online tools",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "brszrc jbbsk",
+        "plaintext": "online tools",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "oeln sltiono",
+        "plaintext": "online tools",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vxujaizoboze",
+        "plaintext": "productivity",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xcbrzkevjnbj",
+        "plaintext": "productivity",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "jnpqmxedodel",
+        "plaintext": "productivity",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "ptriovdiutcy",
+        "plaintext": "productivity",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "vkogpocpcigogpv",
+        "plaintext": "time management",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "lnqq dssesvejrf",
+        "plaintext": "time management",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "lybp bejenpbpjl",
+        "plaintext": "time management",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "teimmeen tmanag",
+        "plaintext": "time management",
+        "cipher_type": "transposition"
+    },
+    {
+        "ciphertext": "fxatjuronwkjujwln",
+        "plaintext": "work-life balance",
+        "cipher_type": "caesar"
+    },
+    {
+        "ciphertext": "xjzg-pjam xemvvyi",
+        "plaintext": "work-life balance",
+        "cipher_type": "vigenere"
+    },
+    {
+        "ciphertext": "pvcm-zrhd ygzgkod",
+        "plaintext": "work-life balance",
+        "cipher_type": "substitution"
+    },
+    {
+        "ciphertext": "w obrakl-alnicfee",
+        "plaintext": "work-life balance",
+        "cipher_type": "transposition"
+    }
+]
